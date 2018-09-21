@@ -3,6 +3,8 @@ title: In The Beginning
 date: '2018-09-21'
 ---
 
+![mikesh-kaos-42527-unsplash.jpg](./mikesh-kaos-42527-unsplash.jpg)
+
 > The first step towards getting somewhere is to decide you’re not going to stay where you are.
 > — John Pierpont “J.P.” Morgan
 
