@@ -27,7 +27,7 @@ I’m still going to write out the work I did though. Because it’s necessary t
 
 #### Button didn't work on android (They fixed it)
 
-**Issue:** There’s a bug in React Native version 57.3 that makes it such that the Button component doesn’t work on android. It works well on iOS though.  
+**Issue:** There’s a bug in React Native version 0.57.3 that makes it such that the Button component doesn’t work on android. It works well on iOS though.  
 **What I did:** I ended up having to nuke my node_modules folder and reinstall an earlier version of React Native. I found that on a [github issue thread](https://github.com/facebook/react-native/issues/21754). The thread got a bit heated; people criticising react-native as a whole. Contributors had to lock it and everything. Open Source is hard chale.
 
 #### Fonts
